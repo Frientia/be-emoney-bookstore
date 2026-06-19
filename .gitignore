@@ -4,3 +4,4 @@ firebase-service-account.json
 *.test 
 /tmp 
 /vendor
+firebase_service_account.json
