@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"be-emoney-bookstore/services"
+	"be-book-money/services"
 
 	"github.com/gin-gonic/gin"
 )

@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"be-emoney-bookstore/config"
-	"be-emoney-bookstore/database"
-	"be-emoney-bookstore/routes"
+	"be-book-money/config"
+	"be-book-money/database"
+	"be-book-money/routes"
 )
 
 func main() {

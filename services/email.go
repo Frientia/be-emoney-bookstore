@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"be-emoney-bookstore/config"
+	"be-book-money/config"
 
 	"gopkg.in/gomail.v2"
 )

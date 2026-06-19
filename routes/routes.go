@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"be-emoney-bookstore/config"
-	"be-emoney-bookstore/handlers"
-	"be-emoney-bookstore/middleware"
-	"be-emoney-bookstore/services"
+	"be-book-money/config"
+	"be-book-money/handlers"
+	"be-book-money/middleware"
+	"be-book-money/services"
 
 	firebase "firebase.google.com/go/v4"
 	"github.com/gin-gonic/gin"
