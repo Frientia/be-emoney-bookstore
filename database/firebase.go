@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"emoney-2fa/config"
+	"be-emoney-bookstore/config"
 
 	firebase "firebase.google.com/go/v4"
 	"google.golang.org/api/option"

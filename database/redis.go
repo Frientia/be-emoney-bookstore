@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"emoney-2fa/config"
+	"be-emoney-bookstore/config"
 
 	"github.com/redis/go-redis/v9"
 )

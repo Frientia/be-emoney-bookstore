@@ -9,6 +9,6 @@ import (
 func HealthCheck(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"status":  "ok",
-		"service": "emoney-2fa-backend",
+		"service": "be-emoney-bookstore-backend",
 	})
 }

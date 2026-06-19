@@ -10,8 +10,8 @@ import (
 	"math/big"
 	"time"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
+	"be-emoney-bookstore/config"
+	"be-emoney-bookstore/models"
 
 	firebase "firebase.google.com/go/v4"
 	"firebase.google.com/go/v4/messaging"

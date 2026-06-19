@@ -3,7 +3,7 @@
     "name": "E-Money 2FA Backend",
     "description": "Backend E-money dengan 2FA (Firebase OTP, Email OTP, TOTP Google Authenticator)",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-    "_postman_id": "emoney-2fa-collection"
+    "_postman_id": "be-emoney-bookstore-collection"
   },
   "variable": [
     {

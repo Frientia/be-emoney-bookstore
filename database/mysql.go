@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
+	"be-emoney-bookstore/config"
+	"be-emoney-bookstore/models"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"emoney-2fa/config"
-	"emoney-2fa/handlers"
-	"emoney-2fa/middleware"
-	"emoney-2fa/services"
+	"be-emoney-bookstore/config"
+	"be-emoney-bookstore/handlers"
+	"be-emoney-bookstore/middleware"
+	"be-emoney-bookstore/services"
 
 	firebase "firebase.google.com/go/v4"
 	"github.com/gin-gonic/gin"

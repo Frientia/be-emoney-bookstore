@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"emoney-2fa/models"
-	"emoney-2fa/services"
+	"be-emoney-bookstore/models"
+	"be-emoney-bookstore/services"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
